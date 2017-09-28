@@ -1,0 +1,19 @@
+{
+  "name": "indonesiangov-twitter-api",
+  "version": "1.0.0",
+  "description": "Twitter Search API for Indonesian Government",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkiyanapp/Twitter-Search-API.git"
+  },
+  "author": "TEAMTAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkiyanapp/Twitter-Search-API/issues"
+  },
+  "homepage": "https://github.com/rizkiyanapp/Twitter-Search-API#readme"
+}
