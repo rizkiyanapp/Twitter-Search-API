@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rizkiyanapp/Twitter-Search-API/issues"
   },
-  "homepage": "https://github.com/rizkiyanapp/Twitter-Search-API#readme"
+  "homepage": "https://github.com/rizkiyanapp/Twitter-Search-API#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "twit": "^2.2.9"
+  }
 }
